@@ -4,3 +4,4 @@
 2042332 
 - processori.md 
 - schede_madri.md
+componenti
